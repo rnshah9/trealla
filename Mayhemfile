@@ -1,0 +1,5 @@
+project: trealla
+target: tpl
+
+cmds:
+  - cmd: /tpl
